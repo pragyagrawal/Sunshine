@@ -1,3 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9c231ccf0489fea568a7945e3d91e675f0b75b9d">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_89fad390354069dc5f39fe46d11bda83d86a4d3e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_fbf9232301282a8929ba8269ba3a632d9f7a9c81\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_c53225cd90651028b4971fbaac9c01b9ed0d38cb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_7d29d24ffa6e6c0011227cd588b318baedd66b21\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_70afc1517bd1ff23fc24e40b531e5009338edce3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_fcb6cfcbba00e8fd691607e92a7a0d7a50796fcf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_b3a5ad7d8c4f0048867725f088df18d15cf6cfee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_ef6e9b057aa6a3dc0daedf7d07485c658e3185b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c4e1ef666dd32a9af94fc2873a8ea01b669d23ce">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bf089265aef884a05740991b1e9b118e4e368c7f\classes.dex" />
+    </item>
+
+</items>
